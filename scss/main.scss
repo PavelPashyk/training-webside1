@@ -1,0 +1,22 @@
+//base
+
+@import "./base/_reset";
+@import "./base/_vars";
+@import "./base/_mixins";
+@import "./base/_base";
+
+//blocks
+
+@import "./blocks/_header";
+@import "./blocks/_nav";
+@import "./blocks/nav-icon";
+@import "./blocks/_info";
+@import "./blocks/_benefits";
+@import "./blocks/_apartments";
+@import "./blocks/_card";
+@import "./blocks/_cta";
+@import "./blocks/_form";
+@import "./blocks/_video";
+@import "./blocks/section-map";
+@import "./blocks/feedback";
+@import "./blocks/footer";
